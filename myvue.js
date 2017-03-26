@@ -1,6 +1,11 @@
 new Vue({
     el: "#app",
     data: {
-        title: "Pluto is no more a planet!"
+        blakka: "Pluto is no more a planet!"
+    },
+    methods: {
+    sayGrey: function(){
+        alert('its grey');
+        }
     }
 });
