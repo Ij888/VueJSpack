@@ -4,8 +4,12 @@ new Vue({
         blakka: "Pluto is no more a planet!"
     },
     methods: {
-    sayGrey: function(){
-        alert('its grey');
+        sayGrey: function(){
+            //alert('its grey');
+            },
+        anotherVar: function(){
+            var anAtom = "Actinide";
+            return anAtom;
         }
     }
 });
