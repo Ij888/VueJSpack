@@ -1,4 +1,4 @@
 Create basic working UI Elements study
 Create barebones site
 Create basic SPA
-
+Explore possibilities of AJAX-like capabilities
