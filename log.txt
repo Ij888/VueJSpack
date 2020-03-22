@@ -1,4 +1,5 @@
 Create basic working UI Elements study
+    #grok nuts and bolts of vue (directives, blablabla...)
 Create barebones site
 Create basic SPA
 Explore possibilities of AJAX-like capabilities
